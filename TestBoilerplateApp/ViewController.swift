@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         ServerConfig.config.setServerConfig()
-        print("added print")
+        print("added print 112")
         // Do any additional setup after loading the view.
     }
 
