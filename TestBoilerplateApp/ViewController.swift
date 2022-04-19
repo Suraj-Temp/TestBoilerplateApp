@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         ServerConfig.config.setServerConfig()
         print("added print 112")
+        print("added print 112")
+        print("added print 112")
+        print("added print 112")
         // Do any additional setup after loading the view.
     }
 
